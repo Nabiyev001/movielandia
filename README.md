@@ -1,8 +1,8 @@
 <h1 align="center">🎬 Movie Info Finder</h1>
 <h3 align="center">🔍 Get Detailed Information About Your Favorite Movies</h3>
 
-Welcome to **Movie Info Finder**! 🎥 This is a simple web app where you can search for movies by name and get detailed information such as:
-
+Welcome to Movielandia! 🎥 This is a simple web app where you can search for movies by name and get detailed information such as:
+<p>Link preview : https://movielandia.vercel.app</p>
 - 📜 **Plot Summary**
 - 👥 **Cast Members**
 - 📅 **Release Date**
